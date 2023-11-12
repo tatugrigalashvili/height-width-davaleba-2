@@ -1,0 +1,12 @@
+.box {
+    height:376px;
+    width:1249px;
+    background-color: #22F4DA;
+    padding-left: 622px;
+    margin-top: 73px;
+    border-radius: 30px;
+}
+.text{
+    margin-top: 102px;
+    size: 32px;
+}
